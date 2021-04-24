@@ -20,9 +20,6 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyter-tabnine==1.2.2
 matplotlib==3.3.2
-navigator-updater==0.2.1
-nbclient==0.5.1
-nbconvert==6.0.7
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
 openpyxl==3.0.5
