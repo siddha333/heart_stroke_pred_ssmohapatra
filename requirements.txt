@@ -37,7 +37,6 @@ python-jsonrpc-server==0.4.0
 python-language-server==0.35.1
 requests==2.24.0
 scikit-learn==0.22.1
-scipy==1.5.2
 seaborn==0.11.0
 spyder==4.1.5
 spyder-kernels==1.9.4
