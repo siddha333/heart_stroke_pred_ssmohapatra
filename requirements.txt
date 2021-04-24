@@ -1,3 +1,4 @@
+Cython==0.29.21
 ipykernel==5.3.4
 ipython==7.22.0
 ipython-genutils==0.2.0
