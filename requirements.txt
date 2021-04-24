@@ -24,11 +24,6 @@ jupyterlab==2.2.6
 jupyterlab-pygments==0.1.2
 jupyterlab-server==1.2.0
 notebook==6.1.4
-numba==0.51.2
-numexpr==2.7.1
-numpy==1.19.2
-numpydoc==1.1.0
-olefile==0.46
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
 openpyxl==3.0.5
