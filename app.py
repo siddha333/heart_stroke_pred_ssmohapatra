@@ -33,7 +33,7 @@ def result():
         scaler = pickle.load(scaler_file)
     
     x = scaler.transform(x)
-    model_path = os.path.join('E:/ML Projects/Heart-Stroke Prediction Project','models/dt.sav')
+    model_path = os.path.join('E:/ML Projects/Heart-Stroke Prediction Project Copy','models/dt.sav')
     dt = joblib.load(model_path)
     Y_pred = dt.predict(x)
     # if no stroke risk
